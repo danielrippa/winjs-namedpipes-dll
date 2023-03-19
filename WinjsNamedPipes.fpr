@@ -1,0 +1,7 @@
+library WinjsNamedPipes;
+
+uses ChakraNamedPipes;
+
+exports GetJsValue;
+
+end.
